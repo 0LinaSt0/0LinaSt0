@@ -3,14 +3,16 @@
 </p>
 <h1 align="center">I'm Lina</h1>
 <h3 align="center">A beginner backend developer</h3>
-<img align="right" alt="Coding" width="400" src="https://sun6-22.userapi.com/s/v1/if1/HZ2aOrsYl_QBCmHWkU0wqLDiGmCI9Qrk1EG7dphKSr8oHJtf4aG9LD2Vqss2hsDswgXAcS14.jpg?size=400x403&quality=96&crop=11,89,456,460&ava=1">
+
+
+<img align="right" alt="Coding" width="400" src="https://pa1.narvii.com/6988/da9333312b9b200fa1bea5394201ff1274bb4096r1-490-600_00.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0linast0&label=Profile%20views&color=0e75b6&style=flat" alt="0linast0" /> </p>
 
-- 🌱 I’m currently learning **at École 42 (School 21)**
+- 🌱 I’m currently learning __at École 42 (School 21)__
 
-- 👨‍💻 All of my projects are available at [https://github.com/0LinaSt0?tab=repositories](https://github.com/0LinaSt0?tab=repositories)
+- 👨‍💻 All of my projects are available in my gitHub __0LinaSt0__
 
-- 📫 If you from "Intra" community you could reach me as **msalena**
+- 📫 If you from "Intra" community you could reach me as __msalena__
 
 <h3 align="left">Connect with me: </h3>
 <p align="left">
