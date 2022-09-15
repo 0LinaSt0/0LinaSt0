@@ -3,7 +3,8 @@
 </p>
 <h1 align="center">I'm Lina</h1>
 <h3 align="center">A beginner backend developer</h3>
-<img align="right" alt="Coding" width="400" src="https://sun9-80.userapi.com/sun9-33/impf/c849224/v849224414/7d3ea/KKGzXVXmRFc.jpg?size=320x480&quality=96&sign=1a2ca59a281c31984f3dfebc2751107e&c_uniq_tag=RlHbmKXc54E1gcbQ--LBrWCOmrJA5IF4Vb147tmgKyM&type=album">
+<img align="right" alt="Coding" width="400" src="https://sun6-22.userapi.com/s/v1/if1/HZ2aOrsYl_QBCmHWkU0wqLDiGmCI9Qrk1EG7dphKSr8oHJtf4aG9LD2Vqss2hsDswgXAcS14.jpg?size=400x403&quality=96&crop=11,89,456,460&ava=1">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=0linast0&label=Profile%20views&color=0e75b6&style=flat" alt="0linast0" /> </p>
 
 - 🌱 I’m currently learning **at École 42 (School 21)**
 
